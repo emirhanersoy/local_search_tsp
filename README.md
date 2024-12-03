@@ -20,7 +20,7 @@ This project implements a Traveling Salesman Problem (TSP) solver using a local 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/emirhanersoylocal_search_tsp.git
+git clone https://github.com/emirhanersoy/local_search_tsp.git
 cd local_search_tsp
 ```
 
